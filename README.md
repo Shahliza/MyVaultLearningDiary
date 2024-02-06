@@ -5,7 +5,8 @@ What did I plan to learn with these 2 Vaults?
 
 <insert mermaid or excalidraw picture here >
 
-![My Obsidian Aim Screenshot](https://github.com/)
+![Alt text](MyVaultLearningDiary/My%20Obsidian%20Aim.png)
+
 
 References along the way:
 
