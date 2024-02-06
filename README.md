@@ -1,6 +1,6 @@
 # MyVaultLearningDiary
 
-Date: 6/2/2024
+Starting Date: 6/2/2024
 
 This Repository is where I want to document my 1st start journey in learning TWO structures in Obsidian: SCTO and LYT (Ideaverse)
 
