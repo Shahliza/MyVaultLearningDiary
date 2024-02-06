@@ -14,7 +14,10 @@ What is my plan to learn these TWO structures (different vaults)?
 **This image is drawn using Excalidraw
 
 ##References along the way:
+
 [Effortless Academic](https://effortlessacademic.com/)
+[Github Community](https://github.com/orgs/community/discussions/12216)
+
 
 
 
