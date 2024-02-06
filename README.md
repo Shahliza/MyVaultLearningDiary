@@ -9,5 +9,7 @@ What did I plan to learn with these 2 Vaults?
 
 
 References along the way:
+[Effortless Academic](https://effortlessacademic.com/)
+
 
 
